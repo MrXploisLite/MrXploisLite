@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [MrXplois]
+# 👋 Hi there, I'm MrXplois
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Building+the+future+with+code)](https://git.io/typing-svg)
 
@@ -12,6 +12,9 @@ I'm a passionate software developer who loves to create and innovate. With a str
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌟 Highlights
 - 🔭 I'm currently working on [AI ChatBot]
@@ -32,15 +35,7 @@ I'm a passionate software developer who loves to create and innovate. With a str
 ![](https://activity-graph.herokuapp.com/graph?username=MrXploisLite&theme=redical)
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/romy-rianata-04355a308/))
----
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1]
-- [Blog Post 2]
-- [Blog Post 3]
-<!-- BLOG-POST-LIST:END -->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romy-rianata-04355a308/)
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrXploisLite&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
