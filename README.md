@@ -1,4 +1,4 @@
-# Hi there, I'm MrXplois
+# Hi there, I'm MrXploisLite
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Building+the+future+with+code)](https://git.io/typing-svg)
 
