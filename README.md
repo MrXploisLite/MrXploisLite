@@ -55,8 +55,8 @@ I'm a passionate software developer who loves to create and innovate. With a str
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ###
-- 🔭 I'm currently working on [AI ChatBot]
-- 🌱 I'm currently learning [C++/Rust]
+- 🔭 I'm currently working on AI ChatBot
+- 🌱 I'm currently learning C++/Rust
 - 👯 I'm looking to collaborate on innovative projects
 - 💬 Ask me about Web Development, Cloud Architecture, and System Design
 
