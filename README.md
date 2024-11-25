@@ -1,7 +1,3 @@
-Berikut adalah versi yang lebih terstruktur, bersih, dan profesional dari README Anda:  
-
----
-
 # Hi there, I'm **MrXploisLite** 👋  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things;Building+the+Future+with+Code)](https://git.io/typing-svg)  
