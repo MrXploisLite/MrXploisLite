@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
---- yea its template *sarcasm
+yea its template *sarcasm
 ---
 
 ## 💻 Tech Stack  
