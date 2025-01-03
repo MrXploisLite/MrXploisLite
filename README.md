@@ -86,7 +86,7 @@ yea its template *sarcasm
 ---
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romy-rianata-04355a308/)  
+[![Instagram](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/romy-rianata-04355a308](https://www.instagram.com/romyr911/)/)  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrXploisLite&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
