@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a passionate software developer who loves to create and innovate. With a strong foundation in modern technologies, I aim to solve complex problems efficiently while continuously improving my skills and exploring cutting-edge tools.  
-
+yea its template *sarcasm
 ---
 
 ## 💻 Tech Stack  
