@@ -11,7 +11,7 @@
 - Rust  
 - C++  
 
-### 👯 **Looking to Collaborate On**  
+### **Looking to Collaborate On**  
 - Innovative tech-driven projects  
 
 ### 💬 **Ask Me About**  
