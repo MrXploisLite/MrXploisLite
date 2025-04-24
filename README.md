@@ -1,24 +1,12 @@
 # Hi there, I'm **MrXploisLite**  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things;Building+the+Future+with+Code)](https://git.io/typing-svg)  
-
 ---
 
 ### 🔭 **Currently Working On**  
 - AI ChatBot  
 
 ### 🌱 **Currently Learning**  
-- Rust  
-- C++  
-
-### **Looking to Collaborate On**  
-- Innovative tech-driven projects  
-
-### 💬 **Ask Me About**  
-- Web Development  
-- Cloud Architecture  
-- System Design  
-
+- AI Prompt Engineer
+- 
 ---
 
 ## 📊 GitHub Stats  
