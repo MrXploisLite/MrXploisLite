@@ -2,11 +2,14 @@
 ---
 
 ### 🔭 **Currently Working On**  
-- AI ChatBot  
+- Minecraft Launcher [ PRIORITY ]
+- Social Management
+- Bot Discord
+- 4+ Mods Minecraft ( Speedrun tools )
+- AI ChatBot
 
 ### 🌱 **Currently Learning**  
 - AI Prompt Engineer
-- 
 ---
 
 ## 📊 GitHub Stats  
@@ -17,14 +20,6 @@
 </p>  
 
 ---
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=MrXploisLite&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
----
-
-## 📈 Contribution Graph  
-![](https://activity-graph.herokuapp.com/graph?username=MrXploisLite&theme=redical)  
 
 ---
 
