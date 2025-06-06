@@ -10,6 +10,7 @@
 
 ### 🌱 **Currently Learning**  
 - AI Prompt Engineer
+- Models / Dataset AI Training
 ---
 
 ## 📊 GitHub Stats  
