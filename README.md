@@ -1,11 +1,12 @@
 # Hi there, I'm **MrXploisLite**  
 ---
 
-### 🔭 **Currently Working On**  
+### 🔭 **Currently Working On**
+- 3 Tools [ Super Priority ]
 - Minecraft Launcher [ PRIORITY ]
 - Social Management
 - Bot Discord
-- 4+ Mods Minecraft ( Speedrun tools )
+- 10+ Mods Minecraft
 - AI ChatBot
 
 ### 🌱 **Currently Learning**  
