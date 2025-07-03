@@ -210,7 +210,7 @@ Learning_Right_Now:
 <td align="center" width="33%">
 
 ### 📱 **Instagram**
-[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romyr911/)
+[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaelstravan/)
 
 **@romyr911**
 *Random life updates*
