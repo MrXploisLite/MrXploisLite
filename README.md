@@ -1,38 +1,28 @@
-# 👋 Hi, I'm Romy  
+# Hey, I'm Romy  
 
-🚀 Young creator & digital entrepreneur, building ecosystems to empower the next generation with **practical, relevant knowledge** in tech, business, and digital economy.  
-💡 Passionate about **Generative AI Engineering**, **Context Engineering**, and building workflows that combine **AI + human creativity**.  
-
----
-
-## 🛠️ Tech & Skills  
-- **Generative AI Engineering**  
-- **Context Engineering** (LLM design, AI workflows, prompt architecture)  
-- Game Development (C++20, SFML, JSON-driven systems)  
-- Digital Business & Content Strategy  
+🚀 Generative AI Engineer (specialized in **Context Engineering**)  
+🎮 Indie Game Developer • Digital Creator • Tech Explorer  
 
 ---
 
-## 🎮 Featured Project  
-### *Signal in the Rain*  
-A **narrative-driven 2D game** I built from scratch using C++20, SFML 2.6, and JSON dialogue system.  
-✨ Features branching storylines, multiple endings, autosave, shaders, and AI-assisted workflow.  
-
-🔗 [Check the repo →](#) *(insert repo link if public)*  
+## ⚡ About Me  
+- Building with **AI agents** and scalable workflows  
+- Passionate about **LLM design, prompt engineering, and automation**  
+- Exploring how **AI + creativity** can unlock new ways of storytelling & business  
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=romyr911&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyr911&layout=compact&theme=tokyonight)  
+## 🎯 Highlight Project  
+**Signal in the Rain** – a narrative-driven 2D game  
+- Built with **C++20 + SFML 2.6**  
+- JSON-driven branching dialogues & multiple endings  
+- AI-assisted development workflow  
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/yourprofile)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/romyr911)  
+## 🌐 Find Me  
+[LinkedIn](https://linkedin.com/in/romy-rianata) • [Instagram](https://instagram.com/romyr911)  
 
 ---
 
-💬 *“AI is not just a tool — it’s a partner in building the future.”*  
+✨ *"I build systems where AI and humans create together."*  
