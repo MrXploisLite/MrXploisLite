@@ -9,4 +9,4 @@
 
 ---
 
-✨ *"I build systems where AI and humans create together."*  
+*"I build systems where AI and humans create together"*  
