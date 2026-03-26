@@ -24,7 +24,7 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** Python, Zig, C/C++, JavaScript, TypeScript
+- **Languages:** Python, Zig, C/C++, JavaScript, TypeScript, Rust
 - **Systems:** Linux Kernel, GitHub, Arch Linux (CachyOS)
 - **AI/ML:** Ollama, LocalLLM, LangChain, RAG
 - **Tools:** Git, Docker, VSCode, Node.js
@@ -44,10 +44,9 @@
 ## 📫 Connect
 
 - 🐙 [GitHub](https://github.com/MrXploisLite)
-- 💼 [LinkedIn](https://www.linkedin.com/in/romy-vandersam/)
-- 🐦 [Twitter](https://twitter.com/MrXploisLite)
+- 💼 [LinkedIn](https://www.linkedin.com/in/romy-rianata-010001334/)
 - 📧 Email: [arokigaming@gmail.com](mailto:arokigaming@gmail.com)
 
 <p align="center">
-⭐ Stars ⁐ | Contributes 🤝 | Open Source 🌍 | Community
+⭐ Stars ⭐ | Contributes 🤝 | Open Source 🌍 | Community
 </p>
